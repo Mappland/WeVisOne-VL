@@ -269,6 +269,8 @@ save_result("outputs/matting", image, result)
 
 ## 🎮 Gradio Demo
 
+For the asynchronous batch inference API and Python client, see the [deployment guide (Chinese)](docs/api_zh-CN.md).
+
 Try the hosted demo: [2B](https://huggingface.co/spaces/hugging-apps/wevisone-vl-2b) / [4B](https://huggingface.co/spaces/hugging-apps/wevisone-vl-4b)
 
 Launch the demo locally:

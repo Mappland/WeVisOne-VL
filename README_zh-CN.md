@@ -251,6 +251,8 @@ save_result("outputs/matting", image, result)
 
 ## 🎮 Gradio Demo
 
+异步 HTTP 接口、批量推理和 Python 客户端的使用方法见[后端部署说明](docs/api_zh-CN.md)。
+
 在线体验：[2B](https://huggingface.co/spaces/hugging-apps/wevisone-vl-2b) / [4B](https://huggingface.co/spaces/hugging-apps/wevisone-vl-4b)
 
 在本地启动 Demo：
